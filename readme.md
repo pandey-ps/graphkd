@@ -1,5 +1,7 @@
 source paper: https://www.biorxiv.org/content/10.1101/2024.01.18.576206v1
 
+weights: https://huggingface.co/pandeyps/fela
+
 protein language model on the hyena operator
 
 - Architecture: long conv + MLP blocks, pre-norm, LM head
